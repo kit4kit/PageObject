@@ -66,13 +66,5 @@ public class MoneyTransferTest {
     transactionPage.transactionCard(cardInfo, amount);
     transactionPage.getNotification();
   }
-
-
-
-
-
-
-
-
 }
 

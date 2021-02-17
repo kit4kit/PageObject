@@ -48,5 +48,4 @@ public class DashboardPage {
     val value = cardBalance.substring(start + balanceStart.length(), finish);
     return Integer.parseInt(value);
   }
-
 }
